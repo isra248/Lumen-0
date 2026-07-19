@@ -107,7 +107,7 @@ It is not a journaling app.
 
 It is not a productivity app.
 
-It is not a habit tracker.
+It is not a habit tracke r.
 
 Lumen is a network of anonymous human moments.
 
