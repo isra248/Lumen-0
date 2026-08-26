@@ -225,4 +225,4 @@ The following product decisions remain open.
 - Should Personal Space include analytics?
 - What moderation strategy best balances safety and anonymity?
 
-These questions will be resolved during future product discovery and iteration.
+These questions will be resolved during future product discovery and iteration..
